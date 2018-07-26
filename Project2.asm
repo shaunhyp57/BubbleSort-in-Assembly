@@ -16,7 +16,7 @@ msg14: .asciiz ", was found\n"
 msg15: .asciiz ", was not found\n"
 msg16: .asciiz " "
 msg17: .asciiz "This program will take a list a numbers given by the user and be\nable to run a series of commands with those numbers, such as\nsort ascending and descending, find max and min, find the average,\nand search for a key\n"
-msg18: .asciiz "\nDevelopers: Shauna Hyppolite and Spencer Ross\n\n"
+msg18: .asciiz "\nDevelopers: Shauna Hyppolite\n\n"
 .text 				
 		
 .globl main
