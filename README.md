@@ -1,4 +1,4 @@
-# BubbleSort-in-Assembly
+# BubbleSort in Assembly
 BubbleSort program written in Assembly
 
 This program (written in Assembly) takes a set of integers 
